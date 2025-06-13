@@ -1,7 +1,6 @@
 package br.com.dio.ui.custom.screen;
 
 import br.com.dio.service.BoardService;
-import br.com.dio.ui.custom.button.CheckGameStatusButton;
 import br.com.dio.ui.custom.button.FinishGameButton;
 import br.com.dio.ui.custom.button.ResetButton;
 import br.com.dio.ui.custom.frame.MainFrame;
